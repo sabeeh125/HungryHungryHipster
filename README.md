@@ -1,11 +1,14 @@
 # Hungry Hungry Hipster
 
-Standing in line is so 2016.
+Standing in line is so 2017.
 
 # Background
 
 This project was created to help customers skip lines at food trucks by allowing them to order their food ahead of time on an app. There are two separate React apps: the user screen (client folder) and the vendor app (my-app folder). They both connect to the same database to read and write data about users, vendors, orders, and order status. When the order is ready, the vendor application uses the Twilio API to send an SMS text message alert to the customer.
 
+
+## Interface Walk-through
+https://www.youtube.com/watch?v=PglMUHwPWgg
 
 ## Install
 
